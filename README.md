@@ -1,2 +1,2 @@
-Requires --> tablet:o
+Requires --> tablet: 0
 
